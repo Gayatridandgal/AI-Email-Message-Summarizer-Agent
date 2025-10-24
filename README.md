@@ -1,10 +1,4 @@
-# 📧 AI Email & Message Summarizer Agent 
 
-An intelligent agent that reads long emails or messages, **summarizes them**, **suggests quick replies**, and **classifies messages** using **Google’s Gemini API** — all inside **Google Colab**.
-
----
-
-## 🚀 Features
 
 ✅ **Summarize Emails** – Get concise 2–3 sentence summaries of long messages.  
 ✅ **Generate Replies** – Get short, polite, professional replies in your tone.  
